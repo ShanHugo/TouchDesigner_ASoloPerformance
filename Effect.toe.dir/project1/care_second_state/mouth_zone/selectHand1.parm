@@ -1,0 +1,6 @@
+?
+chops 0 /project1/care_second_state/bowl_zone/handGrab1
+channames 0 "hand_x hand_y"
+renamefrom 0 "hand_x hand_y"
+renameto 0 "mouth_x mouth_y"
+?

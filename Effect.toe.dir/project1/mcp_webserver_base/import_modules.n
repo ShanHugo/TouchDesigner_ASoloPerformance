@@ -1,0 +1,6 @@
+DAT:text
+tile 1550 -1557 3359 2242
+flags =  current on viewer 1 parlanguage 0
+color 0.55 0.55 0.55 
+view -1 8 0 1 1 1 0 -3.82912 0 0 1 1 0
+end

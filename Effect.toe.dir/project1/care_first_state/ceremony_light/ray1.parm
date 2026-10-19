@@ -1,0 +1,16 @@
+?
+radiusx 17 0.4 parent().par.Raywidth
+radiusy 17 0.4 "parent().par.Raylength * op('/project1/care_first_state/ceremony_light/selectRitual1')['ritual_score']"
+rotate 17 0 1*(360.0/parent().par.Raycount)
+centerx 17 0 "op('/project1/care_first_state/ceremony_light/finalPos1')['x'] - 0.5"
+centery 17 0 "op('/project1/care_first_state/ceremony_light/finalPos1')['y'] - 0.5"
+fillcolorr 0 1
+fillcolorg 0 0.85
+fillcolorb 0 0.45
+fillalpha 17 1 op('/project1/care_first_state/ceremony_light/selectRitual1')['ritual_score']
+ispolygon 0 on
+softness 0 0.6
+outputresolution 0 fit
+resolutionw 0 1280
+resolutionh 0 720
+?

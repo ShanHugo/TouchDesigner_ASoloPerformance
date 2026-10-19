@@ -1,0 +1,19 @@
+?
+radiusx 17 0.4 "op('/project1/care_second_state/feeding_visual/feedPulseTrigger1')['pulse_progress'] * parent().par.Pulsemaxradius"
+radiusy 17 0.4 "op('/project1/care_second_state/feeding_visual/feedPulseTrigger1')['pulse_progress'] * parent().par.Pulsemaxradius"
+centerx 17 0 "op('/project1/care_second_state/feeding_visual/selectMouthForPulse1')['mouth_x'] - 0.5"
+centery 17 0 "op('/project1/care_second_state/feeding_visual/selectMouthForPulse1')['mouth_y'] - 0.5"
+fillcolorr 0 1
+fillcolorg 0 0.7
+fillcolorb 0 0.25
+fillalpha 0 0
+borderr 0 1
+borderg 0 0.65
+borderb 0 0.15
+borderalpha 17 1 "((1.0 - op('/project1/care_second_state/feeding_visual/feedPulseTrigger1')['pulse_progress']) * op('/project1/care_second_state/feeding_visual/feedPulseTrigger1')['pulse_active']) * (1.0 - op('/project1/care_second_state/feeding_state/wearinessState1')['weary'])"
+borderwidth 17 0 parent().par.Pulsewidth
+softness 0 0.3
+outputresolution 0 fit
+resolutionw 0 1280
+resolutionh 0 720
+?

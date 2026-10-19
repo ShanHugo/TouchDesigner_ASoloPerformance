@@ -1,0 +1,6 @@
+?
+preop 0 square
+chanop 0 add
+renamefrom 0 bowl_x
+renameto 0 bowl_dist_sq
+?

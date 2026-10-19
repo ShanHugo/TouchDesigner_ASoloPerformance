@@ -1,0 +1,4 @@
+?
+flipx 17 off op('/project1/care_first_state/body_sense/bodySegment1').par.Mirrorx.eval()
+format 0 rgba8fixed
+?

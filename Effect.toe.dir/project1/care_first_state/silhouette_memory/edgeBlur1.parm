@@ -1,0 +1,3 @@
+?
+size 16 6 "parent().par.Basethickness + parent().par.Ritualthickness * op('/project1/care_first_state/silhouette_memory/selectRitualForColor1')['ritual_score']"
+?

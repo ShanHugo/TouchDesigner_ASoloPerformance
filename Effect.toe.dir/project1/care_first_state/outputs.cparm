@@ -1,0 +1,7 @@
+?
+pages 1 EyeBrightness
+772804865 Basebrightness "Base Brightness (no eyes)" 1 1 0 0.5 1 1 2 2 1 "" "" EyeBrightness 0
+772804865 Eyesboost "Extra Brightness When Eyes Found" 1 1 0 0 1 1 3 2 1.2 "" "" EyeBrightness 1
+772804865 Eyesresponsedelay "Response Delay (s)" 1 1 0 0.05 1 1 2 2 0.4 "" "" EyeBrightness 2
+772804865 Eyesreturnspeed "Return Speed (s)" 1 1 0 0.1 1 1 5 2 1.5 "" "" EyeBrightness 3
+?

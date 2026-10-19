@@ -1,0 +1,11 @@
+TOP:switch
+tile -150 125 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	selectScene1Visual1
+1 	selectScene2Visual1
+2 	selectScene3Visual1
+}
+color 0.67 0.67 0.67 
+end

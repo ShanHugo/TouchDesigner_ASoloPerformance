@@ -1,0 +1,28 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 5
+   {
+      name = gain1
+      data_rle = 0 
+   }
+   {
+      name = gain2
+      data_rle = 0 
+   }
+   {
+      name = gain3
+      data_rle = 0.0569 
+   }
+   {
+      name = act
+      data_rle = 3 
+   }
+   {
+      name = fade
+      data_rle = 1 
+   }
+
+}

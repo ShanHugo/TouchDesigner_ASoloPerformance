@@ -1,0 +1,11 @@
+TOP:glsl
+tile 560 -400 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	addIcon1
+1 	heatMaskPack1
+2 	heatRamp1
+}
+color 0.67 0.67 0.67 
+end

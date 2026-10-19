@@ -1,0 +1,11 @@
+?
+period 0 14
+harmon 0 3
+mono 0 off
+tx 0 0
+ty 0 0
+tz 17 0 "absTime.seconds * 0.08"
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

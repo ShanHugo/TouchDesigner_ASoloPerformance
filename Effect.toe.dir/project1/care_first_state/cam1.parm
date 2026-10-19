@@ -1,0 +1,8 @@
+?
+device 0 "V1|||\\\\?\\usb#vid_046d&pid_085c&mi_00#7&167c5f&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global|||1|||0|||c922 Pro Stream Webcam"
+signalformat 0 f1280x720p-30.00hz
+autoge 0 off
+digitalgain 0 0.15
+analoggain 0 0.7
+exposure 0 20
+?

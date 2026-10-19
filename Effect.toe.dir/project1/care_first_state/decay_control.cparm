@@ -1,0 +1,5 @@
+?
+pages 1 CeremonyParams
+772804865 Responsedelay "Response Delay (s, rise time)" 1 1 0 0.1 1 1 3 2 0.8 "" "" CeremonyParams 0
+772804865 Returnspeed "Return Speed (s, fall time)" 1 1 0 0.5 1 1 10 2 4 "" "" CeremonyParams 1
+?

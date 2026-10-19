@@ -1,0 +1,72 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 16
+   {
+      name = card_id
+      data_rle = 1 
+   }
+   {
+      name = card_target
+      data_rle = 1 
+   }
+   {
+      name = card_from_unity
+      data_rle = 1 
+   }
+   {
+      name = blend
+      data_rle = 1 
+   }
+   {
+      name = edge_r
+      data_rle = 1 
+   }
+   {
+      name = edge_g
+      data_rle = 0.3 
+   }
+   {
+      name = edge_b
+      data_rle = 0.1 
+   }
+   {
+      name = mid_r
+      data_rle = 1 
+   }
+   {
+      name = mid_g
+      data_rle = 0.56 
+   }
+   {
+      name = mid_b
+      data_rle = 0.26 
+   }
+   {
+      name = core_r
+      data_rle = 1 
+   }
+   {
+      name = core_g
+      data_rle = 0.86 
+   }
+   {
+      name = core_b
+      data_rle = 0.68 
+   }
+   {
+      name = light_r
+      data_rle = 1 
+   }
+   {
+      name = light_g
+      data_rle = 0.52 
+   }
+   {
+      name = light_b
+      data_rle = 0.26 
+   }
+
+}

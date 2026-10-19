@@ -1,0 +1,10 @@
+TOP:comp
+tile 340 -220 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	finalComposite1
+1 	s1Church1
+}
+color 0.67 0.67 0.67 
+end

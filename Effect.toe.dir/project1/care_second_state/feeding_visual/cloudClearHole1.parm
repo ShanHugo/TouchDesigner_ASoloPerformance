@@ -1,0 +1,11 @@
+?
+radiusx 17 0.4 "0.1 + 0.55*op('/project1/care_second_state/press_release/pressState1')['press_depth']"
+radiusy 17 0.4 "0.08 + 0.20*op('/project1/care_second_state/press_release/pressState1')['press_depth']"
+centerx 17 0 "op('/project1/care_second_state/feeding_visual/selectHandPoseForClouds1')['pose_x'] - 0.5"
+centery 17 0.13 "op('/project1/care_second_state/feeding_visual/selectHandPoseForClouds1')['pose_y'] - 0.5"
+fillalpha 17 1 "op('/project1/care_second_state/press_release/pressState1')['press_depth'] * op('/project1/care_second_state/feeding_visual/selectHandPoseForClouds1')['hands_present']"
+softness 0 0.18
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

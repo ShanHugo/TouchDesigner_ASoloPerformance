@@ -1,0 +1,32 @@
+?
+pixeldat 0 s1Church1_pixel
+computedat 0 s1Church1_compute
+vec0name 0 uReveal
+vec0valuex 17 0.5 op('/project1/effect_controller/effectOut1')['sceneReveal']
+vec0valuey 0 0
+vec0valuez 0 0
+vec0valuew 0 0
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+vec1name 0 uOpacity
+vec1valuex 0 0.3
+vec1valuey 0 1
+vec1valuez 0 1
+vec1valuew 0 1
+vec2name 0 uBeams
+vec2valuex 0 0.32
+vec2valuey 0 1
+vec2valuez 0 1
+vec2valuew 0 1
+vec3name 0 uTime
+vec3valuex 17 1 absTime.seconds
+vec3valuey 0 1
+vec3valuez 0 1
+vec3valuew 0 1
+vec4name 0 uFog
+vec4valuex 17 1 "op('/project1/effect_controller').par.Fogdensity * op('/project1/effect_controller').par.Usefog"
+vec4valuey 17 1 1.0
+vec4valuez 17 1 0.012
+vec4valuew 17 1 0.35
+?

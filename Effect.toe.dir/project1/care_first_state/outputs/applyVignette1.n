@@ -1,0 +1,10 @@
+TOP:comp
+tile 100 -400 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	addRipple1
+1 	selectVignette1
+}
+color 0.67 0.67 0.67 
+end

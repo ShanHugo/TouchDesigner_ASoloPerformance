@@ -1,0 +1,10 @@
+TOP:comp
+tile 720 -450 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	cardLockRipple1
+1 	tableCombine1
+}
+color 0.67 0.67 0.67 
+end

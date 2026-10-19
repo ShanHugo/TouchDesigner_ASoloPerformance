@@ -1,0 +1,10 @@
+TOP:comp
+tile 0 0 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	splitCombine2
+1 	splitLight3
+}
+color 0.67 0.67 0.67 
+end

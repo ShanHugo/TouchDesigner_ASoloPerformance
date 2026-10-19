@@ -1,0 +1,10 @@
+TOP:comp
+tile 0 -100 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	s1ChurchSwitch1
+1 	selectEcg1
+}
+color 0.67 0.67 0.67 
+end

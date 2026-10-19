@@ -1,0 +1,9 @@
+TOP:blur
+tile 940 -850 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	s3HaloDown1
+}
+color 0.67 0.67 0.67 
+end

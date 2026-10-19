@@ -1,0 +1,14 @@
+?
+radiusx 17 0.4 "parent().par.Mouthradius2 * (1.0 - 0.5*op('/project1/care_second_state/feeding_state/wearinessState1')['recoil'])"
+radiusy 17 0.4 "parent().par.Mouthradius2 * (1.0 - 0.5*op('/project1/care_second_state/feeding_state/wearinessState1')['recoil'])"
+centerx 17 0 "op('/project1/care_second_state/feeding_visual/selectMouthPos2')['mouth_x'] - 0.5"
+centery 17 0 "op('/project1/care_second_state/feeding_visual/selectMouthPos2')['mouth_y'] - 0.5"
+fillcolorr 17 1 "1.0 * parent().par.Mouthbrightness * op('/project1/care_second_state/feeding_visual/breathScene2_1')['breath'] * (1.0 - 0.65*op('/project1/care_second_state/feeding_state/wearinessState1')['recoil'])"
+fillcolorg 17 1 "0.95 * parent().par.Mouthbrightness * op('/project1/care_second_state/feeding_visual/breathScene2_1')['breath'] * (1.0 - 0.45*op('/project1/care_second_state/feeding_state/wearinessState1')['recoil'])"
+fillcolorb 17 1 "0.85 * parent().par.Mouthbrightness * op('/project1/care_second_state/feeding_visual/breathScene2_1')['breath'] * (1.0 + 0.35*op('/project1/care_second_state/feeding_state/wearinessState1')['recoil'])"
+fillalpha 17 1 "0.9 * op('/project1/care_second_state/feeding_visual/breathScene2_1')['breath'] * (1.0 - 0.55*op('/project1/care_second_state/feeding_state/wearinessState1')['recoil']) * (1.0 - op('/project1/care_second_state/feeding_state/wearinessState1')['weary'])"
+softness 0 0.35
+outputresolution 0 fit
+resolutionw 0 1280
+resolutionh 0 720
+?

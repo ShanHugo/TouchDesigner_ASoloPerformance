@@ -1,0 +1,24 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 4
+   {
+      name = td_act
+      data_rle = 3 
+   }
+   {
+      name = td_line
+      data_rle = 3 
+   }
+   {
+      name = td_bg
+      data_rle = 1 
+   }
+   {
+      name = td_code
+      data_rle = 331 
+   }
+
+}

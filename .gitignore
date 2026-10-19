@@ -1,0 +1,22 @@
+# ---- TouchDesigner ----
+# TD's own rolling auto-backups; git is the backup now
+Backup/
+
+# Incrementing saves (Effect.351.toe, Effect.357.toe, ...).
+# Effect.toe is always the current one and is the file that is tracked.
+Effect.[0-9]*.toe
+
+# toeexpand's table of contents - regenerated, no archival value
+Effect.toe.toc
+
+# ---- Large outputs: archived to cloud storage, NOT to git ----
+# ~2 GB of recorded takes (two ~900 MB MJPEG masters, the BGM wav, the MP4s)
+render/
+
+# A duplicate of audio/ plus a zip of the whole test package
+package/
+
+# ---- OS / editor noise ----
+Thumbs.db
+desktop.ini
+.DS_Store

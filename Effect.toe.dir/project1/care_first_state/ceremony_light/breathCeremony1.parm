@@ -1,0 +1,4 @@
+?
+const0name 0 breath
+const0value 17 0 "0.75 + 0.25*math.sin(absTime.seconds*2*math.pi/7.0)"
+?

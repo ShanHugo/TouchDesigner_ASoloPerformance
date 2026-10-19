@@ -1,0 +1,9 @@
+CHOP:lag
+tile -200 -500 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	selectEmbrace1
+}
+color 0.67 0.67 0.67 
+end

@@ -1,0 +1,20 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 3
+   {
+      name = standby
+      data_rle = 0 
+   }
+   {
+      name = fade
+      data_rle = 0 
+   }
+   {
+      name = unity_act
+      data_rle = 0 
+   }
+
+}

@@ -1,0 +1,88 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 20
+   {
+      name = pose_found
+      data_rle = 0 
+   }
+   {
+      name = chest_x
+      data_rle = -0.0649545 
+   }
+   {
+      name = chest_y
+      data_rle = 0.15515 
+   }
+   {
+      name = wrist_mid_x
+      data_rle = 0.00659528 
+   }
+   {
+      name = wrist_mid_y
+      data_rle = 0.223139 
+   }
+   {
+      name = body_scale
+      data_rle = 0.176792 
+   }
+   {
+      name = wrist_rel_y
+      data_rle = 0.384571 
+   }
+   {
+      name = wrist_rel_x
+      data_rle = 0.40471 
+   }
+   {
+      name = shoulder_tilt
+      data_rle = 0.0720664 
+   }
+   {
+      name = head_rel_y
+      data_rle = 1.61395 
+   }
+   {
+      name = head_rel_x
+      data_rle = 0.161744 
+   }
+   {
+      name = chest_rel_x
+      data_rle = -0.367405 
+   }
+   {
+      name = chest_rel_y
+      data_rle = 0.877582 
+   }
+   {
+      name = wrists_joined
+      data_rle = 0 
+   }
+   {
+      name = self_hug_score
+      data_rle = 0 
+   }
+   {
+      name = debug_lw_ratio
+      data_rle = 1.26379 
+   }
+   {
+      name = debug_rw_ratio
+      data_rle = 0.502682 
+   }
+   {
+      name = debug_lw_conf
+      data_rle = 0.0311462 
+   }
+   {
+      name = debug_rw_conf
+      data_rle = 0.0195337 
+   }
+   {
+      name = eyes_found
+      data_rle = 0 
+   }
+
+}

@@ -1,0 +1,20 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 3
+   {
+      name = self_hug_score
+      data_rle = 0 
+   }
+   {
+      name = held_seconds
+      data_rle = 0 
+   }
+   {
+      name = embraced
+      data_rle = 0 
+   }
+
+}

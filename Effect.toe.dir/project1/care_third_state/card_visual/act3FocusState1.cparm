@@ -1,0 +1,7 @@
+?
+pages 1 Act3Focus
+772804865 Focusfadeseconds "Focus Ease In/Out (s)" 1 1 0 0.1 1 1 3 2 0.8 "" "" Act3Focus 0
+772804865 Pulseperiod "Glow Pulse Period (s)" 1 1 0 0.4 1 1 5 2 1.6 "" "" Act3Focus 1
+772804865 Pulseamount "Glow Pulse Radius Boost (max multiplier - 1)" 1 1 0 0 1 1 1.5 2 0.4 "" "" Act3Focus 2
+772804865 Vignettestrength "Vignette Max Darkness (alpha)" 1 1 0 0 1 1 1 2 0.65 "" "" Act3Focus 3
+?

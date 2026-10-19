@@ -1,0 +1,5 @@
+COMP:window
+tile 325 100 160 130
+flags =  picked on current on parlanguage 0
+color 0.67 0.67 0.67 
+end

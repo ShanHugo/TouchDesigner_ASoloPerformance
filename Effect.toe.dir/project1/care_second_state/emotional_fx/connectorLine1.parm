@@ -1,0 +1,16 @@
+?
+sizex 17 0.5 "math.sqrt(((op('/project1/care_second_state/emotional_fx/selectLightPos2')['mouth_x'] - op('/project1/care_second_state/emotional_fx/selectChest3')['chest_x']) * me.width)**2 + ((op('/project1/care_second_state/emotional_fx/selectLightPos2')['mouth_y'] - op('/project1/care_second_state/emotional_fx/selectChest3')['chest_y']) * me.height)**2)"
+sizey 17 0.005 "0.005 * me.height"
+sizeunit 0 pixels
+rotate 17 0 "math.degrees(math.atan2((op('/project1/care_second_state/emotional_fx/selectLightPos2')['mouth_y'] - op('/project1/care_second_state/emotional_fx/selectChest3')['chest_y']) * me.height, (op('/project1/care_second_state/emotional_fx/selectLightPos2')['mouth_x'] - op('/project1/care_second_state/emotional_fx/selectChest3')['chest_x']) * me.width))"
+centerx 17 0 ((op('/project1/care_second_state/emotional_fx/selectChest3')['chest_x']-0.5)+(op('/project1/care_second_state/emotional_fx/selectLightPos2')['mouth_x']-0.5))/2
+centery 17 0 ((op('/project1/care_second_state/emotional_fx/selectChest3')['chest_y']-0.5)+(op('/project1/care_second_state/emotional_fx/selectLightPos2')['mouth_y']-0.5))/2
+fillcolorr 0 0.85
+fillcolorg 0 1
+fillcolorb 0 0.6
+fillalpha 17 1 "(0.15 + 0.6*op('/project1/care_second_state/emotional_fx/selectWarmth1')['feeding_warmth']) * (1.0 - op('/project1/care_second_state/feeding_state/wearinessState1')['weary'])"
+softness 0 0.0004
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

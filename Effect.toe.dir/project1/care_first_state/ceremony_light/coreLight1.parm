@@ -1,0 +1,14 @@
+?
+radiusx 17 0.4 parent().par.Lightradius
+radiusy 17 0.4 parent().par.Lightradius
+centerx 17 0 "op('/project1/care_first_state/ceremony_light/finalPos1')['x'] - 0.5"
+centery 17 0 "op('/project1/care_first_state/ceremony_light/finalPos1')['y'] - 0.5"
+fillcolorr 17 1 "(0.45 + 0.55*op('/project1/care_first_state/ceremony_light/selectRitual1')['ritual_score']) * (op('/project1/care_first_state/ceremony_light/breathCeremony1')['breath'] * parent().par.Lightbrightness + op('/project1/care_first_state/ceremony_light/selectRitual1')['ritual_score'] * parent().par.Ritualboost)"
+fillcolorg 17 1 "(0.55 + 0.20*op('/project1/care_first_state/ceremony_light/selectRitual1')['ritual_score']) * (op('/project1/care_first_state/ceremony_light/breathCeremony1')['breath'] * parent().par.Lightbrightness + op('/project1/care_first_state/ceremony_light/selectRitual1')['ritual_score'] * parent().par.Ritualboost)"
+fillcolorb 17 1 "(1.0 - 0.65*op('/project1/care_first_state/ceremony_light/selectRitual1')['ritual_score']) * (op('/project1/care_first_state/ceremony_light/breathCeremony1')['breath'] * parent().par.Lightbrightness + op('/project1/care_first_state/ceremony_light/selectRitual1')['ritual_score'] * parent().par.Ritualboost)"
+fillalpha 17 1 "(0.6 + 0.3*op('/project1/care_first_state/ceremony_light/breathCeremony1')['breath']) * (1.0 - op('/project1/care_first_state/ceremony_light/rippleTrigger1')['split_progress'])"
+softness 0 0.5
+outputresolution 0 fit
+resolutionw 0 1280
+resolutionh 0 720
+?

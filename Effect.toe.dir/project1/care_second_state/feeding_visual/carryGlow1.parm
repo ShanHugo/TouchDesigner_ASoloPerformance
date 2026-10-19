@@ -1,0 +1,14 @@
+?
+radiusx 17 0.4 parent().par.Glowradius
+radiusy 17 0.4 parent().par.Glowradius
+centerx 17 0 "op('/project1/care_second_state/feeding_visual/selectHandForGlow1')['pose_x'] - 0.5"
+centery 17 0 "op('/project1/care_second_state/feeding_visual/selectHandForGlow1')['pose_y'] - 0.5"
+fillcolorr 0 1
+fillcolorg 0 0.8
+fillcolorb 0 0.4
+fillalpha 17 0 "0.95 * op('/project1/care_second_state/feeding_visual/selectCarrying1')['carrying'] * max(0.2, op('/project1/care_second_state/feeding_visual/carryFlicker1')['flicker'])"
+softness 0 0.6
+outputresolution 0 fit
+resolutionw 0 1280
+resolutionh 0 720
+?

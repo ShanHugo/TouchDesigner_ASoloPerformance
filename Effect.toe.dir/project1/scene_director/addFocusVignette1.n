@@ -1,0 +1,10 @@
+TOP:comp
+tile 150 -440 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	focusVignette1
+1 	crossFade1
+}
+color 0.67 0.67 0.67 
+end

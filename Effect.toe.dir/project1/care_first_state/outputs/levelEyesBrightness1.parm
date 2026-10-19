@@ -1,0 +1,4 @@
+?
+brightness2 17 1 "parent().par.Basebrightness + parent().par.Eyesboost * op('/project1/care_first_state/outputs/lagEyes1')['eyes_found']"
+format 0 rgba16fixed
+?

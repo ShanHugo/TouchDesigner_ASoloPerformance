@@ -1,0 +1,3 @@
+?
+index 17 1 "(0 if parent().par.Manualscene == 'scene1' else 1 if parent().par.Manualscene == 'scene2' else 2) if parent().par.Manualoverride else int(op('/project1/scene_director/sceneTimer1')['next_scene_index'])"
+?

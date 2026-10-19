@@ -1,0 +1,52 @@
+?
+pixeldat 0 s3Candle1_pixel
+computedat 0 s3Candle1_compute
+vec0name 0 uSize
+vec0valuex 17 0.7 op('/project1/effect_controller/effectOut1')['flameSize']
+vec0valuey 0 0
+vec0valuez 0 0
+vec0valuew 0 0
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+vec1name 0 uGain
+vec1valuex 17 0.75 op('/project1/effect_controller/effectOut1')['flameGain']
+vec1valuey 0 1
+vec1valuez 0 1
+vec1valuew 0 1
+vec2name 0 uStab
+vec2valuex 17 0.9 op('/project1/effect_controller/effectOut1')['flameStability']
+vec2valuey 0 1
+vec2valuez 0 1
+vec2valuew 0 1
+vec3name 0 uIgnite
+vec3valuex 17 0 op('/project1/effect_controller/effectOut1')['flameIgnite']
+vec3valuey 0 1
+vec3valuez 0 1
+vec3valuew 0 1
+vec4name 0 uTime
+vec4valuex 17 1 absTime.seconds
+vec4valuey 0 1
+vec4valuez 0 1
+vec4valuew 0 1
+vec5name 0 uColEdge
+vec5valuex 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['edge_r']
+vec5valuey 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['edge_g']
+vec5valuez 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['edge_b']
+vec5valuew 0 1
+vec6name 0 uColMid
+vec6valuex 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['mid_r']
+vec6valuey 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['mid_g']
+vec6valuez 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['mid_b']
+vec6valuew 0 1
+vec7name 0 uColCore
+vec7valuex 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['core_r']
+vec7valuey 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['core_g']
+vec7valuez 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['core_b']
+vec7valuew 0 1
+vec8name 0 uColLight
+vec8valuex 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['light_r']
+vec8valuey 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['light_g']
+vec8valuez 17 1 op('/project1/care_third_state/card_sense/cardBranch1')['light_b']
+vec8valuew 0 1
+?

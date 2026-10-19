@@ -1,0 +1,7 @@
+?
+lag1 17 0.2 parent().par.Responsedelay
+lag2 17 0.2 parent().par.Returnspeed
+timeslice 0 on
+renamefrom 0 ritual_score_raw
+renameto 0 ritual_score
+?

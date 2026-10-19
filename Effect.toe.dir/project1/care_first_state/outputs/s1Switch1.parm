@@ -1,0 +1,4 @@
+?
+index 17 0 "1 if op('/project1/effect_controller').par.Uses1bloom.eval() else 0"
+format 0 rgba8fixed
+?

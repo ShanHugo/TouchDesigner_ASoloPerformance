@@ -1,0 +1,17 @@
+?
+pages 1 Style
+772804867 Useheatmap "S2 Heat Map (off = previous Act 2 look)" 1 1 0 0 1 1 1 2 0 "" "" Style 0
+772804867 Usegpumask "Body Mask On GPU (NVIDIA Background; off = MediaPipe CPU)" 1 1 0 0 1 1 1 2 1 "" "" Style 1
+772804867 Uses1bloom "S1 Grayscale + Bloom (off = previous Act 1 look)" 1 1 0 0 1 1 1 2 0 "" "" Style 2
+772804867 Uses3candle "S3 Candle (off = previous Act 3 with body + kintsugi)" 1 1 0 0 1 1 1 2 0 "" "" Style 3
+772804867 Usechairs "S2 Floating Chairs" 1 1 0 0 1 1 1 2 1 "" "" Style 4
+772804867 Usenewtable "S2 Redrawn Table (off = original rectangles)" 1 1 0 0 1 1 1 2 1 "" "" Style 5
+772804867 Usechurch "S1 Church Depth (altar + perspective)" 1 1 0 0 1 1 1 2 1 "" "" Style 6
+772804867 Useaframe "S1 A-frame icon (not in the teacher reference)" 1 1 0 0 1 1 1 2 1 "" "" Style 7
+772804867 Usehotzones "S2 Hot Zones (hands / head)" 1 1 0 0 1 1 1 2 1 "" "" Style 8
+772804865 Headoffset "S2 Head Offset Above Chest (uv)" 1 1 0 0 1 1 0.4 2 0.15 "" "" Style 9
+772804867 Usefog "S1 Air / Fog" 1 1 0 0 1 1 1 2 1 "" "" Style 10
+772804865 Fogdensity "S1 Fog Density" 1 1 0 0 1 1 1.5 2 0.6 "" "" Style 11
+772804867 Usehighlightknee "S1 Highlight Soft Knee" 1 1 0 0 1 1 1 2 1 "" "" Style 12
+772804865 Highlightknee "S1 Knee Point (below = untouched)" 1 1 0 0.3 1 1 1 2 0.72 "" "" Style 13
+?

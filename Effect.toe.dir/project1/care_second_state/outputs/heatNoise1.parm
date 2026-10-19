@@ -1,0 +1,9 @@
+?
+period 0 2.6
+tx 0 0
+ty 0 0
+tz 17 0 "absTime.seconds * 0.06"
+outputresolution 0 custom
+resolutionw 0 320
+resolutionh 0 180
+?

@@ -1,0 +1,9 @@
+CHOP:lag
+tile 300 -100 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	motionToCHOP1
+}
+color 0.67 0.67 0.67 
+end

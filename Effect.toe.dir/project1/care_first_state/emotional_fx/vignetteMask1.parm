@@ -1,0 +1,9 @@
+?
+radiusx 17 0.4 "parent().par.Vignetterest - (parent().par.Vignetterest-parent().par.Vignettetense)*op('/project1/care_first_state/emotional_fx/selectRitual2')['ritual_score']"
+radiusy 17 0.4 "parent().par.Vignetterest - (parent().par.Vignetterest-parent().par.Vignettetense)*op('/project1/care_first_state/emotional_fx/selectRitual2')['ritual_score']"
+bgalpha 0 1
+softness 17 0 parent().par.Vignettesoftness
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

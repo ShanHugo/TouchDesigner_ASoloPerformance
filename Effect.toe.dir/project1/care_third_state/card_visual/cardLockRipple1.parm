@@ -1,0 +1,16 @@
+?
+radiusx 17 0.4 "0.06 + op('/project1/care_third_state/card_sense/cardLockState1')['ripple_progress'] * 0.5"
+radiusy 17 0.4 "0.06 + op('/project1/care_third_state/card_sense/cardLockState1')['ripple_progress'] * 0.5"
+centerx 17 0 "op('/project1/care_third_state/card_sense/cardLockState1')['slot_x'] - 0.5"
+centery 17 0 "op('/project1/care_third_state/card_sense/cardLockState1')['slot_y'] - 0.5"
+fillalpha 0 0
+borderr 0 1.4
+borderg 0 1.05
+borderb 0 0.6
+borderalpha 17 1 "((1.0 - op('/project1/care_third_state/card_sense/cardLockState1')['ripple_progress']) * op('/project1/care_third_state/card_sense/cardLockState1')['locked'] * 0.8) * op('/project1/care_third_state/card_sense/act3PhaseState1')['table_visible']"
+borderwidth 0 0.008
+softness 0 0.015
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

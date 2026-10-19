@@ -1,0 +1,14 @@
+?
+radiusx 0 0.34
+radiusy 0 0.204
+centerx 0 -0.1
+centery 0 0.46
+fillcolorr 0 0.28
+fillcolorg 0 0.3
+fillcolorb 0 0.38
+fillalpha 17 1 "0.92 * max(0.0, min(1.0, op('/project1/care_second_state/feeding_state/wearinessState1')['cloud_alpha']))"
+softness 0 0.2
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

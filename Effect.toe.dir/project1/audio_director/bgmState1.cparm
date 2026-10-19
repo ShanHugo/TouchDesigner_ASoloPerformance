@@ -1,0 +1,8 @@
+?
+pages 1 Bgm
+772804865 Fadeseconds "Crossfade Between Acts (s)" 1 1 0 0 1 1 15 2 2.5 "" "" Bgm 2
+772804865 Scene1trim "Act 1 Trim  (-22.0 dB source)" 1 1 0 0 1 1 2 2 1 "" "" Bgm 3
+772804865 Scene2trim "Act 2 Trim  (-13.0 dB source)" 1 1 0 0 1 1 2 2 0.355 "" "" Bgm 4
+772804865 Scene3trim "Act 3 Trim  (-17.1 dB source)" 1 1 0 0 1 1 2 2 0.569 "" "" Bgm 5
+772804867 Recueonact "Restart The Track When Its Act Begins" 1 1 0 0 1 1 1 2 1 "" "" Bgm 6
+?

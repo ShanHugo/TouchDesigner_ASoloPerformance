@@ -1,0 +1,14 @@
+?
+radiusx 17 0.4 parent().par.Glowradius
+radiusy 17 0.4 parent().par.Glowradius
+centerx 17 0 "(op('/project1/care_third_state/card_visual/selectCardState1')['card_x'] - 0.5) * (1.0 - op('/project1/care_third_state/card_sense/act3PhaseState1')['moved']) + (op('/project1/care_third_state/card_sense/act3PhaseState1')['card_x'] - 0.5) * op('/project1/care_third_state/card_sense/act3PhaseState1')['moved']"
+centery 17 0 "(op('/project1/care_third_state/card_visual/selectCardState1')['card_y'] - 0.5) * (1.0 - op('/project1/care_third_state/card_sense/act3PhaseState1')['moved']) + (op('/project1/care_third_state/card_sense/act3PhaseState1')['card_y'] - 0.5) * op('/project1/care_third_state/card_sense/act3PhaseState1')['moved']"
+fillcolorr 0 0.95
+fillcolorg 0 0.88
+fillcolorb 0 0.68
+fillalpha 17 0.7 "0.7 * max(op('/project1/care_third_state/card_visual/selectCardState1')['carrying'], op('/project1/care_third_state/card_sense/act3PhaseState1')['flying']) * (1.0 - op('/project1/care_third_state/card_visual/embraceProgress1')['embraced'])"
+softness 0 0.015
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

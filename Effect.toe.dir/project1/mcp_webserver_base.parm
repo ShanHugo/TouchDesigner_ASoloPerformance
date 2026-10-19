@@ -1,0 +1,6 @@
+?
+pageindex 0 3
+enableexternaltox 0 off
+externaltox 17 "" "me.parent().fileFolder + '/' + '../../Downloads/touchdesigner-mcp-td/mcp_webserver_base.tox'"
+Port 67108928 9981
+?

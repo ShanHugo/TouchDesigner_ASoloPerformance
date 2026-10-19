@@ -1,0 +1,11 @@
+?
+pages 2 FeedingState FollowUnity
+772804865 Carrytimeout "Carry Timeout (s, resets if mouth not reached)" 1 1 0 0 1 1 1 2 8 "" "" FeedingState 0
+772804865 Warmthperfeed "Warmth Gained Per Feed" 1 1 0 0 1 1 0.5 2 0.08 "" "" FeedingState 1
+772804869 Resetfeeding "Reset Feeding Progress" 1 1 0 0 1 1 1 2 0 "" "" FeedingState 2
+772804879 Burstmode "What Floods The Screen Red" 1 1 0 0 1 1 1 2 0 both "" FollowUnity 4097 3 both "Either the feeds or the line" feed "Feed count only" line "Subtitle line only" 3
+772804866 Burstonline "Act 2 Line That Floods The Screen" 1 1 0 1 1 1 4 2 3 "" "" FollowUnity 4
+772804865 Burstlinedelay "Delay After That Line Starts (s)" 1 1 0 0 1 1 20 2 0 "" "" FollowUnity 5
+772804867 Followunityfeed "Count Feeds From Unity When Live" 1 1 0 0 1 1 1 2 1 "" "" FollowUnity 6
+772804868 Unityfeedchannel "Unity Feed Count Channel" 1 1 0 0 1 1 1 2 0 FeedCount "" FollowUnity 7
+?

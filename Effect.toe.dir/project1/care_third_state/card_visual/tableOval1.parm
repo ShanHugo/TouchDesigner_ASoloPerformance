@@ -1,0 +1,16 @@
+?
+radiusx 0 0.34
+radiusy 0 0.14
+centerx 0 0
+centery 0 -0.18
+fillalpha 0 0
+borderr 0 0.95
+borderg 0 0.72
+borderb 0 0.35
+borderalpha 17 0.22 "(0.22 + op('/project1/care_third_state/card_sense/cardLockState1')['locked'] * (0.18 + 0.4 * max(0.0, 1.0 - op('/project1/care_third_state/card_sense/cardLockState1')['ripple_progress']))) * op('/project1/care_third_state/card_sense/act3PhaseState1')['table_visible']"
+borderwidth 0 0.0035
+softness 0 0.006
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

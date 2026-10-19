@@ -1,0 +1,28 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 5
+   {
+      name = pulse
+      data_rle = 0 
+   }
+   {
+      name = pulse_prev
+      data_rle = 0 
+   }
+   {
+      name = activity
+      data_rle = 0 
+   }
+   {
+      name = ripple_progress
+      data_rle = 1 
+   }
+   {
+      name = last_beat_amp
+      data_rle = 0 
+   }
+
+}

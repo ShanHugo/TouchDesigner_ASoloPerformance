@@ -1,0 +1,7 @@
+?
+pages 1 Crack
+772804865 Linewidthmul "Crack Line Width" 1 1 0 0.1 1 1 2 2 0.5 "" "" Crack 0
+772804867 Keepbottomclear "No Cracks From The Bottom Edge (corners still allowed)" 1 1 0 0 1 1 1 2 1 "" "" Crack 1
+772804865 Cornerfrac "How Much Of The Bottom Counts As Corner" 1 1 0 0 1 1 0.5 2 0.2 "" "" Crack 2
+772804879 Crackstyle "Crack Style" 1 1 0 0 1 1 1 2 0 branch "" Crack 4097 2 branch "Branching (no rings)" web "Web (radial + rings)" 3
+?

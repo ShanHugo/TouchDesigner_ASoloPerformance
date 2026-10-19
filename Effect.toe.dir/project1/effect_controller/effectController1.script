@@ -1,0 +1,56 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 12
+   {
+      name = bloomStrength
+      data_rle = inf 
+   }
+   {
+      name = sceneReveal
+      data_rle = inf 
+   }
+   {
+      name = sceneHeat
+      data_rle = inf 
+   }
+   {
+      name = subjectHeat
+      data_rle = inf 
+   }
+   {
+      name = flameSize
+      data_rle = 0.3 
+   }
+   {
+      name = flameGain
+      data_rle = 0.3 
+   }
+   {
+      name = flameStability
+      data_rle = 0.3 
+   }
+   {
+      name = vowBoost
+      data_rle = inf 
+   }
+   {
+      name = flameIgnite
+      data_rle = 0 
+   }
+   {
+      name = textScale
+      data_rle = 1 
+   }
+   {
+      name = textOffsetx
+      data_rle = 0 
+   }
+   {
+      name = textOffsety
+      data_rle = 0 
+   }
+
+}

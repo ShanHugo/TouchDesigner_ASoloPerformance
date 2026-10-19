@@ -1,0 +1,14 @@
+?
+radiusx 17 0.4 "parent().par.Lightradius * 0.7"
+radiusy 17 0.4 "parent().par.Lightradius * 0.7"
+centerx 17 0 "(op('/project1/care_first_state/ceremony_light/finalPos1')['x'] - 0.5) + -2*parent().par.Splitspacing*op('/project1/care_first_state/ceremony_light/rippleTrigger1')['split_p0']"
+centery 17 0 "op('/project1/care_first_state/ceremony_light/finalPos1')['y'] - 0.5"
+fillcolorr 17 1 "1.0 * (15.0 * (0.85 + 0.15*op('/project1/care_first_state/ceremony_light/breathCeremony1')['breath']))"
+fillcolorg 17 0.85 "0.85 * (15.0 * (0.85 + 0.15*op('/project1/care_first_state/ceremony_light/breathCeremony1')['breath']))"
+fillcolorb 17 0.5 "0.45 * (15.0 * (0.85 + 0.15*op('/project1/care_first_state/ceremony_light/breathCeremony1')['breath']))"
+fillalpha 17 1 "(0.6 + 0.3*op('/project1/care_first_state/ceremony_light/breathCeremony1')['breath']) * op('/project1/care_first_state/ceremony_light/rippleTrigger1')['split_p0']"
+softness 0 0.5
+outputresolution 0 fit
+resolutionw 0 1280
+resolutionh 0 720
+?

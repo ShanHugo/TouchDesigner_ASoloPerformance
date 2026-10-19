@@ -1,0 +1,6 @@
+?
+pages 1 ChestAlign
+772804865 Chestheightfrac "Chest Height Fraction (pixel fallback only)" 1 1 0 0 1 1 1 2 0.4 "" "" ChestAlign 0
+772804865 Alignmenttolerance "Alignment Tolerance (fraction of body/shoulder size)" 1 1 0 0 1 1 1 2 0.35 "" "" ChestAlign 1
+772804865 Modeswitchdelay "Mode Switch Debounce (s)" 1 1 0 0 1 1 2 2 0.35 "" "" ChestAlign 2
+?

@@ -1,0 +1,5 @@
+?
+file 16 render/takes/full_run_master.mov "'TDMovieOut' + me.fileSuffix"
+qualityscale 0 0.9
+fps 16 60 me.time.rate
+?

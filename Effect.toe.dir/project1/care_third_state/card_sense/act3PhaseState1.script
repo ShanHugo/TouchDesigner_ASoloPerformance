@@ -1,0 +1,44 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 9
+   {
+      name = table_visible
+      data_rle = 0 
+   }
+   {
+      name = fly_progress
+      data_rle = 1 
+   }
+   {
+      name = flying
+      data_rle = 0 
+   }
+   {
+      name = moved
+      data_rle = 1 
+   }
+   {
+      name = landed
+      data_rle = 1 
+   }
+   {
+      name = card_x
+      data_rle = 0.5 
+   }
+   {
+      name = card_y
+      data_rle = 0.37 
+   }
+   {
+      name = card_alpha
+      data_rle = 0 
+   }
+   {
+      name = landed_seconds
+      data_rle = 1101.3 
+   }
+
+}

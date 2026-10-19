@@ -1,0 +1,10 @@
+TOP:comp
+tile 400 -200 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	blurBody3
+1 	constBodyColor3
+}
+color 0.67 0.67 0.67 
+end

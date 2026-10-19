@@ -1,0 +1,9 @@
+TOP:glsl
+tile 660 -400 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	s1BloomAdd1
+}
+color 0.67 0.67 0.67 
+end

@@ -1,0 +1,5 @@
+?
+op 0 ..
+pars 0 "Feedplus Feedreset Forcerelease Splitopen Splitclose Cardlock Cardunlock Embracenow Resetall Nextline Prevline Manualline Manuallines Manualscene Manualoverride"
+language 0 python
+?

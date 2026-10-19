@@ -1,0 +1,44 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 9
+   {
+      name = elapsed_seconds
+      data_rle = 1406.6 
+   }
+   {
+      name = time_remaining
+      data_rle = 0 
+   }
+   {
+      name = scene1_active
+      data_rle = 0 
+   }
+   {
+      name = scene2_active
+      data_rle = 0 
+   }
+   {
+      name = scene3_active
+      data_rle = 1 
+   }
+   {
+      name = active_scene_index
+      data_rle = 2 
+   }
+   {
+      name = next_scene_index
+      data_rle = 2 
+   }
+   {
+      name = transition_blend
+      data_rle = 0 
+   }
+   {
+      name = scene_elapsed_seconds
+      data_rle = 1106.6 
+   }
+
+}

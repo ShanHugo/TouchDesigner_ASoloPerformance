@@ -1,0 +1,16 @@
+?
+pageindex 0 1
+winop 0 /project1/scene_director/masterOut1
+title 16 "Ceremony Output" me
+display 17 0 "op('/project1/scene_director').par.Showmonitor if op('/project1/scene_director').par.Showmode else 0"
+justifyv 0 top
+winoffsetx 17 100 "0 if op('/project1/scene_director').par.Showmode else 100"
+winoffsety 17 -100 "0 if op('/project1/scene_director').par.Showmode else -100"
+dpiscaling 17 usedpiscale "'native' if op('/project1/scene_director').par.Showmode else 'usedpiscale'"
+size 0 custom
+winw 17 1280 "op('/project1/scene_director').par.Showwidth if op('/project1/scene_director').par.Showmode else 1280"
+winh 17 720 "op('/project1/scene_director').par.Showheight if op('/project1/scene_director').par.Showmode else 720"
+borders 17 on "not op('/project1/scene_director').par.Showmode"
+alwaysontop 17 off bool(op('/project1/scene_director').par.Showmode)
+cursorvisible 17 alwaysvisible "'nocursor' if op('/project1/scene_director').par.Showmode else 'alwaysvisible'"
+?

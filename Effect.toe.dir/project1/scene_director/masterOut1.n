@@ -1,0 +1,9 @@
+TOP:null
+tile 50 150 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	standbyCross1
+}
+color 0.67 0.67 0.67 
+end

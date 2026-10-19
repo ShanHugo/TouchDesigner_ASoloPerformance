@@ -1,0 +1,17 @@
+?
+callbacks 0 /project1/care_first_state/emotional_fx/pulseValue1_callbacks1
+exportmethod 0 datname
+Idleperiod 67108928 2.6
+Minperiod 67108928 1
+Activityscale 67108928 1.1
+Activitydeadzone 67108928 0.15
+Activityresponsecurve 67108928 0.85
+Spikeampmin 67108928 0.55
+Minactivityforbeat 67108928 0.03
+Wobbleamp 67108928 0.05
+Ampsource 67108928 activity
+Ampwindow 67108928 0.8
+Ampstraightness 67108928 0.45
+Torsodeadzone 67108928 0.025
+Torsoscale 67108928 0.35
+?

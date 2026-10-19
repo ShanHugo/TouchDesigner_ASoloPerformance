@@ -1,0 +1,17 @@
+?
+pages 2 EmotionalFX Vignette
+772804865 Ecgxleft Ecgxleft 1 1 0 0 1 1 1 2 -0.45 "" "" EmotionalFX 0
+772804865 Ecgxright Ecgxright 1 1 0 0 1 1 1 2 -0.15 "" "" EmotionalFX 1
+772804865 Ecgybase Ecgybase 1 1 0 0 1 1 1 2 0.35 "" "" EmotionalFX 2
+772804865 Ecgyrange Ecgyrange 1 1 0 0 1 1 1 2 0.08 "" "" EmotionalFX 3
+772804865 Scrollseconds Scrollseconds 1 1 0 0 1 1 1 2 4 "" "" EmotionalFX 4
+772804865 Dotsize Dotsize 1 1 0 0 1 1 1 2 0.006 "" "" EmotionalFX 5
+772804865 Vignetterest "Vignette Radius At Rest" 1 1 0 0.2 1 1 1.2 2 0.85 "" "" Vignette 6
+772804865 Vignettetense "Vignette Radius At Max Tension" 1 1 0 0.1 1 1 1 2 0.35 "" "" Vignette 7
+772804865 Vignettesoftness "Vignette Edge Softness" 1 1 0 0.05 1 1 0.8 2 0.35 "" "" Vignette 8
+772804865 Ecgbrightness "ECG Line Brightness" 1 1 0 0 1 1 1.5 2 0.2 "" "" EmotionalFX 9
+772804865 Ecgbeatboost "Beat Brightness Boost (x at full beat)" 1 1 0 0 1 1 8 2 3 "" "" EmotionalFX 10
+772804865 Ecgbeatwidth "Beat Width Multiplier" 1 1 0 1 1 1 4 2 1.9 "" "" EmotionalFX 11
+772804865 Ecgpeakref "Pulse Value Counted As A Full Beat" 1 1 0 0.2 1 1 3 2 1.2 "" "" EmotionalFX 12
+772804867 Useecggpu "ECG On GPU (off = old PIL draw)" 1 1 0 0 1 1 1 2 1 "" "" EmotionalFX 13
+?

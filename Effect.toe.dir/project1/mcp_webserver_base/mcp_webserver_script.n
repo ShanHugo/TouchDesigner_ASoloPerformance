@@ -1,0 +1,7 @@
+DAT:text
+tile 825 300 644 380
+flags =  viewer 1 parlanguage 0
+color 0.55 0.55 0.55 
+dock mpc_webserver
+view -1 8 0 1 1 1 0 -20.4274 0 0 1 1 0
+end

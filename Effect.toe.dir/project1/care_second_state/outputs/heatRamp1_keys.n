@@ -1,0 +1,6 @@
+DAT:table
+tile 0 -120 130 90
+flags =  viewer 1 showDocked off parlanguage 0
+color 0.67 0.67 0.67 
+dock heatRamp1
+end

@@ -1,0 +1,19 @@
+?
+sizex 0 0.0616
+sizey 0 0.364
+rotate 0 -22
+centerx 0 -0.098
+centery 0 0.13
+fillalpha 0 0
+borderr 0 0.85
+borderg 0 0.9
+borderb 0 1
+borderalpha 17 0.15 "0.150 * (1 if op('/project1/effect_controller').par.Useaframe.eval() else 0)"
+borderwidth 0 0.01008
+cornerradius 0 0.028
+cornerradiusunit 0 fractionaspect
+softness 0 0.0056
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

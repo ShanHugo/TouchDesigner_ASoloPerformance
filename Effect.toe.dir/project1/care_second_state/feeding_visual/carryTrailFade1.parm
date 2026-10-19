@@ -1,0 +1,4 @@
+?
+gain 17 0 "pow(0.01, 1.0/(max(0.05,parent().par.Trailseconds)*me.time.rate))"
+postoff 0 -0.006
+?

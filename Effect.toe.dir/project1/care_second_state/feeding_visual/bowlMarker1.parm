@@ -1,0 +1,14 @@
+?
+radiusx 17 0.4 parent().par.Bowlmarkerradius
+radiusy 17 0.4 parent().par.Bowlmarkerradius
+centerx 17 0 "op('/project1/care_second_state/feeding_visual/selectBowlPos1')['bowl_x'] - 0.5"
+centery 17 0 "op('/project1/care_second_state/feeding_visual/selectBowlPos1')['bowl_y'] - 0.5"
+fillcolorr 17 1 "1.0 * parent().par.Bowlmarkerbrightness * op('/project1/care_second_state/feeding_visual/breathScene2_1')['breath'] * (1.0 + 0.4*op('/project1/care_second_state/feeding_visual/selectCarrying1')['carrying'])"
+fillcolorg 17 1 "0.9 * parent().par.Bowlmarkerbrightness * op('/project1/care_second_state/feeding_visual/breathScene2_1')['breath'] * (1.0 + 0.4*op('/project1/care_second_state/feeding_visual/selectCarrying1')['carrying'])"
+fillcolorb 17 1 "0.6 * parent().par.Bowlmarkerbrightness * op('/project1/care_second_state/feeding_visual/breathScene2_1')['breath'] * (1.0 + 0.4*op('/project1/care_second_state/feeding_visual/selectCarrying1')['carrying'])"
+fillalpha 17 1 "0.8 * op('/project1/care_second_state/feeding_visual/breathScene2_1')['breath'] * (1.0 - op('/project1/care_second_state/feeding_state/wearinessState1')['weary'])"
+softness 0 0.3
+outputresolution 0 fit
+resolutionw 0 1280
+resolutionh 0 720
+?

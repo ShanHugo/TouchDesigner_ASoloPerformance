@@ -1,0 +1,26 @@
+?
+pages 2 Cues Manual
+772804865 Smoothseconds "Smoothing Time (s)" 1 1 0 0 1 1 1 2 1.2 "" "" Cues 0
+772804865 Revealstart "S1 Reveal At Start" 1 1 0 0 1 1 1 2 0.15 "" "" Cues 1
+772804865 Bloomvowboost "S1 Bloom Boost While Vowing" 1 1 0 0 1 1 1 2 0.3 "" "" Cues 2
+772804865 Heatcold "S2 Heat Before Any Feed" 1 1 0 0 1 1 1 2 0.15 "" "" Cues 3
+772804865 Heatperfeed "S2 Heat Added Per Feed" 1 1 0 0 1 1 1 2 0.15 "" "" Cues 4
+772804865 Heatburst "S2 Heat At The Burst" 1 1 0 0 1 1 1 2 0.9 "" "" Cues 5
+772804865 Presscooled "S2 Heat Once Fully Pressed Down" 1 1 0 0 1 1 1 2 0.35 "" "" Cues 6
+772804865 Subjectlead "S2 Subject Warmer Than Room By" 1 1 0 0 1 1 1 2 0.15 "" "" Cues 7
+772804865 Flameember "S3 Flame Before Card Lands" 1 1 0 0 1 1 1 2 0 "" "" Cues 8
+772804865 Flamelanded "S3 Flame When Card Lands" 1 1 0 0 1 1 1 2 0.3 "" "" Cues 9
+772804866 Feedstoburst "S2 Feeds To Burst" 1 1 0 0 1 1 1 2 4 "" "" Cues 10
+772804867 Manualparams "Drive Parameters By Hand" 1 1 0 0 1 1 1 2 0 "" "" Manual 11
+772804865 Bloomstrength Bloomstrength 1 1 0 0 1 1 1 2 0 "" "" Manual 12
+772804865 Scenereveal Scenereveal 1 1 0 0 1 1 1 2 0 "" "" Manual 13
+772804865 Sceneheat Sceneheat 1 1 0 0 1 1 1 2 0 "" "" Manual 14
+772804865 Subjectheat Subjectheat 1 1 0 0 1 1 1 2 0 "" "" Manual 15
+772804865 Flamesize Flamesize 1 1 0 0 1 1 1 2 0 "" "" Manual 16
+772804865 Flamegain Flamegain 1 1 0 0 1 1 1 2 0 "" "" Manual 17
+772804865 Flamestability Flamestability 1 1 0 0 1 1 1 2 0 "" "" Manual 18
+772804865 Textscale Textscale 1 1 0 0 1 1 1 2 1 "" "" Manual 19
+772804865 Textoffsetx Textoffsetx 1 1 0 0 1 1 1 2 0 "" "" Manual 20
+772804865 Textoffsety Textoffsety 1 1 0 0 1 1 1 2 0 "" "" Manual 21
+772804865 Goldfillseconds "S3 Seconds From Embrace To Full Flame" 1 1 0 0 1 1 1 2 5 "" "" Cues 22
+?

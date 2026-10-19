@@ -1,0 +1,4 @@
+?
+brightness2 17 1 "pow(0.01, 1.0/(max(0.05,parent().par.Traillength)*me.time.rate)) * parent().par.Traildecay"
+format 0 rgba16fixed
+?

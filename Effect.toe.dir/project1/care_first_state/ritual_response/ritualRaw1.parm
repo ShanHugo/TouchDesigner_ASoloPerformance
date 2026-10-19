@@ -1,0 +1,6 @@
+?
+chopop 0 mul
+match 0 name
+renamefrom 0 hands_joined
+renameto 0 ritual_score_raw
+?

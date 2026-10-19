@@ -1,0 +1,7 @@
+?
+pages 1 EmbraceState
+772804865 Holdseconds "Hold Duration To Confirm (s)" 1 1 0 0 1 1 1 2 2 "" "" EmbraceState 0
+772804865 Selfhugthreshold "Self-Hug Score Threshold" 1 1 0 0 1 1 1 2 0.6 "" "" EmbraceState 1
+772804865 Autoresetseconds "Auto-Reset After Embrace (s, 0=off)" 1 1 0 0 1 1 1 2 10 "" "" EmbraceState 2
+772804869 Resetembrace "Reset Embrace Ending" 1 1 0 0 1 1 1 2 0 "" "" EmbraceState 3
+?

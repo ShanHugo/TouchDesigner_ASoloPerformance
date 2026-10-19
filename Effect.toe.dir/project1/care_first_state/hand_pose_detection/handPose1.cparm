@@ -1,0 +1,7 @@
+?
+pages 1 HandPose
+772804865 Joinedmax "Joined Max Distance (scale-normalized)" 1 1 0 0 1 1 1 2 1.4 "" "" HandPose 0
+772804865 Levelnesstolerance "Levelness Tolerance (y-diff, scale-normalized)" 1 1 0 0 1 1 1 2 1.2 "" "" HandPose 1
+772804867 Mirrorx "Mirror X Output" 1 1 0 0 1 1 1 2 1 "" "" HandPose 2
+772804865 Singlehandconfidence "Single-Hand Joined Confidence (occlusion fallback)" 1 1 0 0 1 1 1 2 0.75 "" "" HandPose 3
+?

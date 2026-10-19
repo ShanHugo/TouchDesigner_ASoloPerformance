@@ -1,0 +1,8 @@
+?
+pages 1 Standby
+772804865 Fadeseconds "Fade To / From Standby (s)" 1 1 0 0 1 1 10 2 1.5 "" "" Standby 0
+772804865 Brightness "Standby Brightness" 1 1 0 0 1 1 1 2 0.35 "" "" Standby 1
+772804865 Breathedepth "Breathe Depth" 1 1 0 0 1 1 1 2 0.45 "" "" Standby 2
+772804865 Breatheseconds "Breathe Period (s)" 1 1 0 1 1 1 20 2 7 "" "" Standby 3
+772804865 Bgmlevel "BGM Level While Standing By" 1 1 0 0 1 1 1 2 0.35 "" "" Standby 4
+?

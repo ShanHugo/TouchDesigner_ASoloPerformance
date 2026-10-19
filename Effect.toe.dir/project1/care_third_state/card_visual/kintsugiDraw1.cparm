@@ -1,0 +1,16 @@
+?
+pages 1 Kintsugi
+772804865 Patternscale "Crack Size On Chest" 1 1 0 0.1 1 1 1 2 0.45 "" "" Kintsugi 0
+772804865 Linewidthmul "Line Width Multiplier" 1 1 0 0.3 1 1 3 2 1 "" "" Kintsugi 1
+772804865 Revealseconds "Scar Surfacing After Card Light Lands (s)" 1 1 0 0.2 1 1 10 2 2.5 "" "" Kintsugi 2
+772804865 Prelatchfront "Gold Reach While Hug Is Confirming (0-1)" 1 1 0 0 1 1 1 2 0.35 "" "" Kintsugi 3
+772804865 Goldfillseconds "Gold Full Fill Duration (s)" 1 1 0 0.5 1 1 20 2 5 "" "" Kintsugi 4
+772804865 Goldsoftness "Gold Front Softness" 1 1 0 0.02 1 1 0.5 2 0.12 "" "" Kintsugi 5
+772804865 Scaralpha "Scar Brightness" 1 1 0 0 1 1 1 2 0.55 "" "" Kintsugi 6
+772804865 Goldintensity "Gold Brightness" 1 1 0 0.2 1 1 3 2 1.4 "" "" Kintsugi 7
+772804865 Chestyoffset "Vertical Offset From Chest (fraction)" 1 1 0 -0.3 1 1 0.3 2 0 "" "" Kintsugi 8
+772804865 Edgemarginx "Keep Crack Centre This Far From Left/Right Edge" 1 1 0 0 1 1 0.5 2 0.15 "" "" Kintsugi 9
+772804865 Edgemarginy "Keep Crack Centre This Far From Top/Bottom Edge" 1 1 0 0 1 1 0.5 2 0.2 "" "" Kintsugi 10
+772804867 Mirrorchestx "Mirror Chest X" 1 1 0 0 1 1 1 2 0 "" "" Kintsugi 11
+772804869 Resetkintsugi "Reset Kintsugi" 1 1 0 0 1 1 1 2 0 "" "" Kintsugi 12
+?

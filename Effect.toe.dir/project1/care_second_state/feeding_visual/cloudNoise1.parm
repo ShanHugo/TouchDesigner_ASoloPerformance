@@ -1,0 +1,11 @@
+?
+period 0 3.2
+harmon 0 4
+rough 0 0.55
+tx 17 0 "absTime.seconds * 0.015"
+ty 17 0 "absTime.seconds * 0.006"
+tz 17 0 "absTime.seconds * 0.04"
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

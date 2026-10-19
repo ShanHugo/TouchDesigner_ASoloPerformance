@@ -1,0 +1,6 @@
+DAT:text
+tile 660 -520 130 90
+flags =  viewer 1 parlanguage 0
+color 0.67 0.67 0.67 
+dock s1Knee1
+end

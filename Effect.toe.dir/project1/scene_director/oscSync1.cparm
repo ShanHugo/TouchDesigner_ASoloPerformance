@@ -1,0 +1,8 @@
+?
+pages 1 OscSync
+772804868 Actchannel "Act Channel Name" 1 1 0 0 1 1 1 2 0 ScriptLine "" OscSync 0
+772804868 Linechannel "Line Channel Name" 1 1 0 0 1 1 1 2 0 SceneID "" OscSync 1
+772804868 Bgchannel "Background Channel Name" 1 1 0 0 1 1 1 2 0 SceneBK "" OscSync 2
+772804868 Alivechannel "Heartbeat Channel Name" 1 1 0 0 1 1 1 2 0 Alive "" OscSync 3
+772804865 Livetimeoutseconds "Unity Live Timeout (s)" 1 1 0 0.3 1 1 10 2 1.5 "" "" OscSync 4
+?

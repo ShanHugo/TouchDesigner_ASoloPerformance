@@ -1,0 +1,27 @@
+?
+pixeldat 0 s2Table1_pixel
+computedat 0 s2Table1_compute
+vec0name 0 uTime
+vec0valuex 17 0.5 absTime.seconds
+vec0valuey 0 0
+vec0valuez 0 0
+vec0valuew 0 0
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+vec1name 0 uStretch
+vec1valuex 17 0.5 op('/project1/care_second_state/feeding_state/wearinessState1')['table_transform']
+vec1valuey 0 1
+vec1valuez 0 1
+vec1valuew 0 1
+vec2name 0 uOpacity
+vec2valuex 17 1 0.16
+vec2valuey 0 1
+vec2valuez 0 1
+vec2valuew 0 1
+vec3name 0 uLine
+vec3valuex 17 1 0.0035
+vec3valuey 0 1
+vec3valuez 0 1
+vec3valuew 0 1
+?

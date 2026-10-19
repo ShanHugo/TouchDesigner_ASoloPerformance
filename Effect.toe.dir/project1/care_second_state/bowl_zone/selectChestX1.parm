@@ -1,0 +1,6 @@
+?
+chops 0 /project1/care_first_state/chest_alignment/chestSmooth1
+channames 0 chest_x
+renamefrom 0 chest_x
+renameto 0 bowl_x
+?

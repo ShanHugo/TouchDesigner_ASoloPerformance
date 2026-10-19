@@ -1,0 +1,10 @@
+TOP:cross
+tile 50 50 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	switchScene1
+1 	switchSceneB1
+}
+color 0.67 0.67 0.67 
+end

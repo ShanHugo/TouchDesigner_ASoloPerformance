@@ -1,0 +1,6 @@
+?
+chops 0 /project1/care_first_state/hand_pose_detection/handPose1
+channames 0 "pose_x pose_y"
+renamefrom 0 "pose_x pose_y"
+renameto 0 "bowl_x bowl_y"
+?

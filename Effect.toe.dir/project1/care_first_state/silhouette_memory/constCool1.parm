@@ -1,0 +1,8 @@
+?
+colorr 17 0.72 "0.15 + 0.85*op('/project1/care_first_state/silhouette_memory/selectRitualForColor1')['ritual_score']"
+colorg 17 0.78 "0.55 + 0.20*op('/project1/care_first_state/silhouette_memory/selectRitualForColor1')['ritual_score']"
+colorb 17 0.9 "0.95 - 0.75*op('/project1/care_first_state/silhouette_memory/selectRitualForColor1')['ritual_score']"
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

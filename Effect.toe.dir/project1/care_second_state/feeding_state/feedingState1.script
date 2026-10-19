@@ -1,0 +1,32 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 6
+   {
+      name = carrying
+      data_rle = 0 
+   }
+   {
+      name = feeding_triggered
+      data_rle = 0 
+   }
+   {
+      name = feeding_count
+      data_rle = 2 
+   }
+   {
+      name = feeding_warmth
+      data_rle = 0.16 
+   }
+   {
+      name = feed_source
+      data_rle = 1 
+   }
+   {
+      name = burst_line
+      data_rle = 0 
+   }
+
+}

@@ -1,0 +1,10 @@
+TOP:switch
+tile 940 -1050 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	iconCombine1
+1 	s2Table1
+}
+color 0.67 0.67 0.67 
+end

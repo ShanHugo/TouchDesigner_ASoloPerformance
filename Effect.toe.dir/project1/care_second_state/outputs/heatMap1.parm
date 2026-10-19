@@ -1,0 +1,47 @@
+?
+pixeldat 0 heatMap1_pixel
+computedat 0 heatMap1_compute
+vec0name 0 uHeat
+vec0valuex 17 0.35 op('/project1/effect_controller/effectOut1')['sceneHeat']
+vec0valuey 0 0
+vec0valuez 0 0
+vec0valuew 0 0
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+vec1name 0 uSubject
+vec1valuex 17 0.35 op('/project1/effect_controller/effectOut1')['subjectHeat']
+vec1valuey 0 1
+vec1valuez 0 1
+vec1valuew 0 1
+vec2name 0 uLumWeight
+vec2valuex 17 1 0.45
+vec2valuey 0 1
+vec2valuez 0 1
+vec2valuew 0 1
+vec3name 0 uNoiseAmt
+vec3valuex 16 0.14 0.12
+vec3valuey 0 1
+vec3valuez 0 1
+vec3valuew 0 1
+vec4name 0 uChest
+vec4valuex 17 1 op('/project1/care_first_state/chest_alignment/chestAlign1')['chest_x']
+vec4valuey 17 1 "1 - op('/project1/care_first_state/chest_alignment/chestAlign1')['chest_y']"
+vec4valuez 17 1 "0.25 * op('/project1/care_first_state/chest_alignment/chestAlign1')['body_found']"
+vec4valuew 0 1
+vec5name 0 uHands
+vec5valuex 17 1 op('/project1/care_first_state/hand_pose_detection/handHeatLag1')['pose_x']
+vec5valuey 17 1 op('/project1/care_first_state/hand_pose_detection/handHeatLag1')['pose_y']
+vec5valuez 17 1 "0.24 * op('/project1/care_first_state/hand_pose_detection/handHeatLag1')['hands_present'] * op('/project1/effect_controller').par.Usehotzones"
+vec5valuew 17 1 0.085
+vec6name 0 uHead
+vec6valuex 17 1 op('/project1/care_first_state/chest_alignment/chestAlign1')['chest_x']
+vec6valuey 17 1 "1 - op('/project1/care_first_state/chest_alignment/chestAlign1')['chest_y'] + op('/project1/effect_controller').par.Headoffset"
+vec6valuez 17 1 "0.18 * op('/project1/care_first_state/chest_alignment/chestAlign1')['body_found'] * op('/project1/effect_controller').par.Usehotzones"
+vec6valuew 17 1 0.075
+vec7name 0 uZone
+vec7valuex 17 1 0.11
+vec7valuey 17 1 0.45
+vec7valuez 17 1 0.15
+vec7valuew 17 1 "1 - 0.85 * op('/project1/care_second_state/feeding_state/wearinessState1')['relief']"
+?

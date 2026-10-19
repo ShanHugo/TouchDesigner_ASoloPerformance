@@ -1,0 +1,36 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 7
+   {
+      name = weary
+      data_rle = 1 
+   }
+   {
+      name = weary_effective
+      data_rle = 0 
+   }
+   {
+      name = cloud_alpha
+      data_rle = 0 
+   }
+   {
+      name = relief
+      data_rle = 1 
+   }
+   {
+      name = recoil
+      data_rle = 0 
+   }
+   {
+      name = recoil_scale
+      data_rle = 0.666667 
+   }
+   {
+      name = table_transform
+      data_rle = 1 
+   }
+
+}

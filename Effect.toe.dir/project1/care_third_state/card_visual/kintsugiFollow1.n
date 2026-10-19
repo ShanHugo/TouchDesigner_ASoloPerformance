@@ -1,0 +1,9 @@
+TOP:transform
+tile 0 -440 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	kintsugiDraw1
+}
+color 0.67 0.67 0.67 
+end

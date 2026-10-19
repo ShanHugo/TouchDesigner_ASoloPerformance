@@ -1,0 +1,5 @@
+?
+pages 1 CardVisual
+772804865 Glowradius "Card Glow Radius" 1 1 0 0 1 1 1 2 0.04 "" "" CardVisual 0
+772804865 Trailseconds "Draw Trail Fade (sec)" 1 1 0 0.05 1 1 2 2 0.4 "" "" CardVisual 1
+?

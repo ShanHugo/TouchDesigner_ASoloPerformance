@@ -1,0 +1,6 @@
+?
+pages 1 HandGrab
+772804865 Pinchmax "Pinch Max Distance (scale-normalized)" 1 1 0 0 1 1 1 2 1 "" "" HandGrab 0
+772804865 Grabthreshold "Grab Threshold" 1 1 0 0 1 1 1 2 0.6 "" "" HandGrab 1
+772804867 Mirrorx "Mirror X Output" 1 1 0 0 1 1 1 2 1 "" "" HandGrab 2
+?

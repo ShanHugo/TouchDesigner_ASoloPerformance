@@ -1,0 +1,17 @@
+?
+pages 2 LineSchedule FollowUnity
+772804865 Act1line2start "Act 1 Line 2 Start (s into act)" 1 1 0 0 1 1 150 2 50 "" "" LineSchedule 0
+772804865 Act1line3start "Act 1 Line 3 Start (s into act)" 1 1 0 0 1 1 150 2 100 "" "" LineSchedule 1
+772804865 Act2line2start "Act 2 Line 2 Start (s into act)" 1 1 0 0 1 1 150 2 37.5 "" "" LineSchedule 2
+772804865 Act2line3start "Act 2 Line 3 Start (s into act)" 1 1 0 0 1 1 150 2 75 "" "" LineSchedule 3
+772804865 Act2line4start "Act 2 Line 4 Start (s into act)" 1 1 0 0 1 1 150 2 112.5 "" "" LineSchedule 4
+772804865 Act3line2start "Act 3 Line 2 Start (s into act)" 1 1 0 0 1 1 150 2 10 "" "" LineSchedule 5
+772804865 Act3line3start "Act 3 Line 3 Start (s into act)" 1 1 0 0 1 1 150 2 20 "" "" LineSchedule 6
+772804866 Backgroundcode "Background Code (all lines)" 1 1 0 1 1 1 9 2 1 "" "" LineSchedule 7
+772804867 Followunity "Follow Unity (seek TD to match)" 1 1 0 0 1 1 1 2 0 "" "" FollowUnity 8
+772804865 Resyncafterseconds "Resync After Mismatch (s)" 1 1 0 0.5 1 1 15 2 3 "" "" FollowUnity 9
+772804865 Resyncnudgeseconds "Resync Land Past Line Start (s)" 1 1 0 0 1 1 5 2 0.5 "" "" FollowUnity 10
+772804865 Resynccooldownseconds "Min Seconds Between Seeks" 1 1 0 0.5 1 1 15 2 2.5 "" "" FollowUnity 11
+772804867 Restartonunityfirstline "Restart When Unity Switches To Act 1 Line 1 (next visitor)" 1 1 0 0 1 1 1 2 1 "" "" FollowUnity 12
+772804865 Restartholdseconds "Unity Must Hold Act 1 Line 1 This Long (s)" 1 1 0 0 1 1 10 2 1.5 "" "" FollowUnity 13
+?

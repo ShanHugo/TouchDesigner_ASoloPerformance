@@ -1,0 +1,16 @@
+?
+radiusx 17 0.4 "0.08 + op('/project1/care_first_state/emotional_fx/pulseValue1')['ripple_progress'] * 0.35 * min(1.4, op('/project1/care_first_state/emotional_fx/pulseValue1')['last_beat_amp'])"
+radiusy 17 0.4 "0.08 + op('/project1/care_first_state/emotional_fx/pulseValue1')['ripple_progress'] * 0.35 * min(1.4, op('/project1/care_first_state/emotional_fx/pulseValue1')['last_beat_amp'])"
+centerx 17 0 "op('/project1/care_first_state/emotional_fx/selectChest2')['chest_x'] - 0.5"
+centery 17 0 "op('/project1/care_first_state/emotional_fx/selectChest2')['chest_y'] - 0.5"
+fillalpha 0 0
+borderr 0 1.6
+borderg 0 1
+borderb 0 0.7
+borderalpha 17 1 "(1.0 - op('/project1/care_first_state/emotional_fx/pulseValue1')['ripple_progress']) * min(1.0, max(0.0, (op('/project1/care_first_state/emotional_fx/pulseValue1')['last_beat_amp']-0.4)/1.0))"
+borderwidth 0 0.014
+softness 0 0.02
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

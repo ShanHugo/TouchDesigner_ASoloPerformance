@@ -1,0 +1,10 @@
+TOP:comp
+tile 200 -50 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	addConnector1
+1 	selectIcon1
+}
+color 0.67 0.67 0.67 
+end

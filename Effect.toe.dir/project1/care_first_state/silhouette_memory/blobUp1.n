@@ -1,0 +1,9 @@
+TOP:res
+tile 770 -200 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	blobPick1
+}
+color 0.67 0.67 0.67 
+end

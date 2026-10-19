@@ -1,0 +1,28 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 5
+   {
+      name = locked
+      data_rle = 1 
+   }
+   {
+      name = lock_progress
+      data_rle = 1 
+   }
+   {
+      name = ripple_progress
+      data_rle = 1 
+   }
+   {
+      name = slot_x
+      data_rle = 0.5 
+   }
+   {
+      name = slot_y
+      data_rle = 0.32 
+   }
+
+}

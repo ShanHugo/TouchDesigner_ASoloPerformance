@@ -1,0 +1,4 @@
+?
+file 16 render/takes/full_run_bgm.wav "'TDAudio' + me.fileSuffix"
+timeslice 0 on
+?

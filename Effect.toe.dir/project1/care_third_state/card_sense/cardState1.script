@@ -1,0 +1,24 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 4
+   {
+      name = carrying
+      data_rle = 0 
+   }
+   {
+      name = placed
+      data_rle = 1 
+   }
+   {
+      name = card_x
+      data_rle = 0.378599 
+   }
+   {
+      name = card_y
+      data_rle = 0.219511 
+   }
+
+}

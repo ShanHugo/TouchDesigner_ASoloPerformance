@@ -1,0 +1,10 @@
+TOP:comp
+tile 600 -650 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	iconPalm1
+1 	iconPalm2
+}
+color 0.67 0.67 0.67 
+end

@@ -1,0 +1,10 @@
+?
+type 0 sparse
+period 0 3.5
+harmon 0 3
+spread 0 1.4
+gain 0 1
+rough 0 0.55
+resolutionw 0 512
+resolutionh 0 288
+?

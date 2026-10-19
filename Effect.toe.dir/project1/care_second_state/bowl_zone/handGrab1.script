@@ -1,0 +1,32 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 6
+   {
+      name = hand_active
+      data_rle = 0 
+   }
+   {
+      name = hand_x
+      data_rle = 0.377215 
+   }
+   {
+      name = hand_y
+      data_rle = 0.203685 
+   }
+   {
+      name = pinch_distance
+      data_rle = 0.403582 
+   }
+   {
+      name = grab_value
+      data_rle = 0 
+   }
+   {
+      name = grab_active
+      data_rle = 0 
+   }
+
+}

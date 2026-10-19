@@ -1,0 +1,5 @@
+?
+lag1 17 0.2 parent().par.Eyesresponsedelay
+lag2 17 0.2 parent().par.Eyesreturnspeed
+timeslice 0 on
+?

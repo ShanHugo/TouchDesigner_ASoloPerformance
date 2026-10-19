@@ -1,0 +1,8 @@
+?
+const0name 0 breath
+const0value 17 0 "0.8 + 0.2*math.sin(absTime.seconds*2*math.pi/6.5)"
+const1name 0 chan2
+const1value 0 0
+const2name 0 chan3
+const2value 0 0
+?

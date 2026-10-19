@@ -1,0 +1,18 @@
+?
+sizex 0 0.11
+sizey 0 0.19
+centerx 0 0
+centery 0 -0.18
+fillalpha 17 0 "(0.65 * op('/project1/care_third_state/card_sense/cardLockState1')['lock_progress']) * op('/project1/care_third_state/card_sense/act3PhaseState1')['table_visible']"
+borderr 0 1
+borderg 0 0.78
+borderb 0 0.4
+borderalpha 17 1 "(0.18 + 0.55*op('/project1/care_third_state/card_visual/selectCardState1')['placed']) * op('/project1/care_third_state/card_sense/act3PhaseState1')['table_visible']"
+borderwidth 0 0.003
+cornerradius 0 0.02
+cornerradiusunit 0 fractionaspect
+softness 0 0.004
+outputresolution 0 custom
+resolutionw 0 1280
+resolutionh 0 720
+?

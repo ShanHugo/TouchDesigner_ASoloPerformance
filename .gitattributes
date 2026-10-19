@@ -1,0 +1,22 @@
+# toeexpand's output carries a short binary header, so git calls it binary and
+# refuses to diff it. These are the files that record every parameter value in
+# the project, so force a textual diff - that is the whole point of committing
+# the expanded tree. -text is essential: these carry a binary header, and
+# letting git rewrite their line endings would corrupt what toecollapse
+# rebuilds the .toe from.
+Effect.toe.dir/** -text diff
+
+# The real source of truth is binary. Never try to merge it.
+*.toe binary
+*.tox binary
+
+# Generated, readable extracts. Keep LF so the diffs stay clean on any machine.
+# (Note: "scripts/**.py" does NOT match recursively - it needs the explicit
+# "**/*.py" form, which is why an earlier version of this file silently let
+# git convert everything to CRLF.)
+scripts/**/*.py   text eol=lf
+scripts/**/*.glsl text eol=lf
+scripts/**/*.tsv  text eol=lf
+scripts/**/*.txt  text eol=lf
+tools/*.py        text eol=lf
+*.md              text eol=lf

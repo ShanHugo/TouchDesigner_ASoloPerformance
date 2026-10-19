@@ -1,0 +1,5 @@
+?
+pages 1 CarryFlicker
+772804865 Maxspeed "Speed At Max Instability (screen-fractions/sec)" 1 1 0 0.1 1 1 4 2 1.2 "" "" CarryFlicker 0
+772804865 Flickerintensity "Flicker Intensity At Max Speed" 1 1 0 0 1 1 1 2 0.7 "" "" CarryFlicker 1
+?

@@ -1,0 +1,23 @@
+?
+pixeldat 0 ecgGpu1_pixel
+computedat 0 ecgGpu1_compute
+vec0name 0 uGeom
+vec0valuex 17 0.5 op('/project1/care_first_state/emotional_fx').par.Ecgxleft
+vec0valuey 17 0 op('/project1/care_first_state/emotional_fx').par.Ecgxright
+vec0valuez 17 0 op('/project1/care_first_state/emotional_fx').par.Ecgybase
+vec0valuew 17 0 op('/project1/care_first_state/emotional_fx').par.Ecgyrange
+outputresolution 0 custom
+resolutionw 0 1024
+resolutionh 0 384
+format 0 rgba16float
+vec1name 0 uLine
+vec1valuex 17 1 "max(1.0, op('/project1/care_first_state/emotional_fx').par.Dotsize * 384)"
+vec1valuey 17 1 op('/project1/care_first_state/emotional_fx').par.Ecgbrightness
+vec1valuez 17 1 op('/project1/care_first_state/emotional_fx').par.Ecgbeatboost
+vec1valuew 17 1 op('/project1/care_first_state/emotional_fx').par.Ecgbeatwidth
+vec2name 0 uMisc
+vec2valuex 17 1 op('/project1/care_first_state/emotional_fx').par.Ecgpeakref
+vec2valuey 0 256
+vec2valuez 0 8
+vec2valuew 0 0
+?

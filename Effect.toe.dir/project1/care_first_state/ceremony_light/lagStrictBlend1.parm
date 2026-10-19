@@ -1,0 +1,5 @@
+?
+lag1 17 0.2 op('/project1/care_first_state/decay_control').par.Responsedelay
+lag2 17 0.2 op('/project1/care_first_state/decay_control').par.Returnspeed
+timeslice 0 on
+?

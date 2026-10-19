@@ -1,0 +1,44 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 9
+   {
+      name = unity_code
+      data_rle = 1 
+   }
+   {
+      name = unity_act
+      data_rle = 0 
+   }
+   {
+      name = unity_line
+      data_rle = 0 
+   }
+   {
+      name = unity_bg
+      data_rle = 1 
+   }
+   {
+      name = td_code
+      data_rle = 331 
+   }
+   {
+      name = synced
+      data_rle = 0 
+   }
+   {
+      name = mismatch_seconds
+      data_rle = 1067.48 
+   }
+   {
+      name = unity_connected
+      data_rle = 1 
+   }
+   {
+      name = unity_live
+      data_rle = 0 
+   }
+
+}

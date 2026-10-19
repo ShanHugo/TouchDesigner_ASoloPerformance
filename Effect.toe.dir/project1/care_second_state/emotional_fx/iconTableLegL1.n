@@ -1,0 +1,5 @@
+TOP:rectangle
+tile 400 -900 130 90
+flags =  parlanguage 0
+color 0.67 0.67 0.67 
+end

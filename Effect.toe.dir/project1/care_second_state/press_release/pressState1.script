@@ -1,0 +1,20 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 3
+   {
+      name = armed
+      data_rle = 1 
+   }
+   {
+      name = press_depth
+      data_rle = 0 
+   }
+   {
+      name = press_target
+      data_rle = 1 
+   }
+
+}

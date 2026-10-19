@@ -1,0 +1,5 @@
+?
+postoff 17 0 -1.0*parent().par.Bowlyoffset
+renamefrom 0 chest_y
+renameto 0 bowl_y
+?

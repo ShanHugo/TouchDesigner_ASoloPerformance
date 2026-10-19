@@ -1,0 +1,5 @@
+?
+file 16 audio/scene3_bgm_loop.wav app.samplesFolder+'/Audio/JeremyCaulfield_www.dumb-unit.com.mp3'
+volume 17 0 op('/project1/audio_director/bgmState1')['gain3']
+timeslice 0 on
+?

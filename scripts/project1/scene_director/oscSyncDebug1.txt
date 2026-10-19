@@ -1,0 +1,4 @@
+OSC SYNC CHECK  -  UNITY OFFLINE (stale value)
+TD    act/line/bg = 3 / 3 / 1   (code 331)
+Unity act/line/bg = 0 / 0 / 1   (code 001)
+mismatch for 1067.5s

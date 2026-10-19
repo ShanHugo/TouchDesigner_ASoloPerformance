@@ -1,0 +1,10 @@
+TOP:comp
+tile 500 150 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	carryTrailFade1
+1 	carryGlow1
+}
+color 0.67 0.67 0.67 
+end

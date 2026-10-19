@@ -1,0 +1,11 @@
+CHOP:math
+tile -150 50 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	bgmScene1
+1 	bgmScene2
+2 	bgmScene3
+}
+color 0.67 0.67 0.67 
+end

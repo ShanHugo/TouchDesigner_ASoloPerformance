@@ -1,0 +1,10 @@
+TOP:displace
+tile -250 910 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	cloudClearHole1
+1 	edgeJagNoise1
+}
+color 0.67 0.67 0.67 
+end

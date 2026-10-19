@@ -1,0 +1,6 @@
+?
+gain 17 1 -1.0*parent().par.Ritualreverbreduce
+postoff 17 0 parent().par.Basereverb
+renamefrom 0 ritual_score
+renameto 0 voice_reverb
+?

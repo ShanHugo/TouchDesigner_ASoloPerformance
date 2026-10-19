@@ -1,0 +1,3 @@
+?
+blacklevel 17 0 "0.55 - 0.25 * op('/project1/effect_controller/effectOut1')['bloomStrength']"
+?

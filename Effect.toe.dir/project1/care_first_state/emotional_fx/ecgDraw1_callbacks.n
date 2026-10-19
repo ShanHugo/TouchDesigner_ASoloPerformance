@@ -1,0 +1,7 @@
+DAT:text
+tile 0 -120 130 90
+flags =  picked on current on viewer 1 parlanguage 0
+color 0.67 0.67 0.67 
+dock ecgDraw1
+view -1 8 0 1 1 1 0 -23.8199 0 0 1 1 0
+end

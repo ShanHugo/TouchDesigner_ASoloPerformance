@@ -1,0 +1,8 @@
+?
+pages 1 CardBranch
+772804879 Cardsource "Where The Card Choice Comes From" 1 1 0 0 1 1 1 2 0 auto "" CardBranch 4097 3 auto "Unity if sending, else manual" unity "Unity OSC only" manual "Manual only (rehearsal)" 0
+772804868 Cardchannel "Unity Card Channel Name" 1 1 0 0 1 1 1 2 0 CardID "" CardBranch 1
+772804865 Blendseconds "Colour Crossfade (s)" 1 1 0 0 1 1 10 2 2.5 "" "" CardBranch 2
+772804867 Holdcard "Keep The Card For The Rest Of Act 3" 1 1 0 0 1 1 1 2 1 "" "" CardBranch 3
+772804869 Resetcard "Reset To No Card" 1 1 0 0 1 1 1 2 0 "" "" CardBranch 4
+?

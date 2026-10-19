@@ -1,0 +1,10 @@
+?
+pages 1 CardLock
+772804865 Lockradius "Lock-In Radius (fraction of screen)" 1 1 0 0.02 1 1 0.3 2 0.09 "" "" CardLock 0
+772804865 Locksmoothseconds "Lock-In Ease Duration (s)" 1 1 0 0.1 1 1 2 2 0.6 "" "" CardLock 1
+772804865 Rippleduration "Release Ripple Duration (s)" 1 1 0 0.3 1 1 4 2 1.8 "" "" CardLock 2
+772804869 Resetcardlock "Reset Card Lock" 1 1 0 0 1 1 1 2 0 "" "" CardLock 3
+772804879 Lockmode "What Locks The Card" 1 1 0 0 1 1 1 2 0 line "" CardLock 4097 3 line "Subtitle line (reliable)" gesture "Place gesture (original)" both Either 4
+772804866 Lockonline "Act 3 Line That Locks The Card" 1 1 0 1 1 1 3 2 2 "" "" CardLock 5
+772804865 Locklinedelay "Delay After That Line Starts (s)" 1 1 0 0 1 1 20 2 3 "" "" CardLock 6
+?

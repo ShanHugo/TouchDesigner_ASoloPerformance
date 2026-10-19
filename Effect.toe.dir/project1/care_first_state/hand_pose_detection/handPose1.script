@@ -1,0 +1,28 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 5
+   {
+      name = hands_present
+      data_rle = 0 
+   }
+   {
+      name = hands_joined
+      data_rle = 0 
+   }
+   {
+      name = hands_joined_strict
+      data_rle = 0 
+   }
+   {
+      name = pose_x
+      data_rle = 0.325851 
+   }
+   {
+      name = pose_y
+      data_rle = 0.0332705 
+   }
+
+}

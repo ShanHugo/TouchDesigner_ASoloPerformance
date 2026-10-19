@@ -1,0 +1,9 @@
+TOP:mirror
+tile 0 0 130 90
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	selectMaskLocal1
+}
+color 0.67 0.67 0.67 
+end

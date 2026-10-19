@@ -1,0 +1,10 @@
+?
+pages 1 PressRelease
+772804865 Armwindow "Arm Window After Feed (s)" 1 1 0 0 1 1 1 2 4 "" "" PressRelease 0
+772804865 Presstop "Press Start Y (above = not pressing)" 1 1 0 0 1 1 1 2 0.6 "" "" PressRelease 1
+772804865 Pressbottom "Press Full Y (at/below = fully pressed)" 1 1 0 0 1 1 1 2 0.32 "" "" PressRelease 2
+772804865 Mindip "Min Target At Full Press" 1 1 0 0 1 1 1 2 0.35 "" "" PressRelease 3
+772804865 Holdconfirmseconds "Hold In Zone To Confirm Press (s)" 1 1 0 0 1 1 1.5 2 0.25 "" "" PressRelease 4
+772804865 Presswindowseconds "Look-back Window For Downward Motion (s)" 1 1 0 0.2 1 1 3 2 1.2 "" "" PressRelease 5
+772804865 Pressdropmin "Min Downward Drop To Count As A Press" 1 1 0 0 1 1 0.3 2 0.06 "" "" PressRelease 6
+?

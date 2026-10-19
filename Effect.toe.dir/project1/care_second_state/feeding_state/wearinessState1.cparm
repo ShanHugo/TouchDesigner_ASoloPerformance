@@ -1,0 +1,13 @@
+?
+pages 1 Weariness
+772804865 Weariedafterfeed "Feeds Before Clouds Start Gathering" 1 1 0 1 1 1 10 2 4 "" "" Weariness 0
+772804865 Recoilduration "Recoil Recovery Time (s)" 1 1 0 0 1 1 1 2 2.5 "" "" Weariness 1
+772804879 Reliefmode "What Clears The Clouds" 1 1 0 0 1 1 1 2 0 both "" Weariness 4097 3 both "Press or the last line" line "Last line only" gesture "Press only (original)" 2
+772804866 Reliefonline "Act 2 Line That Releases" 1 1 0 1 1 1 4 2 4 "" "" Weariness 3
+772804865 Relieflinedelay "Delay After That Line Starts (s)" 1 1 0 0 1 1 20 2 0 "" "" Weariness 4
+772804865 Linereliefseconds "Seconds To Fully Clear On That Line" 1 1 0 0.5 1 1 20 2 6 "" "" Weariness 5
+772804865 Burstholdseconds "Hold The Outburst Before Pressing Can Clear It (s)" 1 1 0 0 1 1 30 2 8 "" "" Weariness 6
+772804865 Reliefrate "Cloud Relief Rate (per second held down)" 1 1 0 0 1 1 1 2 0.35 "" "" Weariness 7
+772804865 Tabletransformtime "Table Reform Duration (s)" 1 1 0 0 1 1 1 2 3 "" "" Weariness 8
+772804865 Cloudgatherseconds "Cloud Gather-In Duration (s)" 1 1 0 0 1 1 1 2 3 "" "" Weariness 9
+?

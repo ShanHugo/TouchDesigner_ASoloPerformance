@@ -1,0 +1,16 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 256
+   tracks = 2
+   {
+      name = pulse
+      data_rle = @256 0 
+   }
+   {
+      name = valid
+      data_rle = @256 0 
+   }
+
+}

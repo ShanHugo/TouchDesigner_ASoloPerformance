@@ -1,0 +1,8 @@
+?
+pages 1 PoseTrack
+772804865 Wristsjoinedmax "Wrists Joined Max Distance (shoulder-width normalized)" 1 1 0 0.05 1 1 1.5 2 0.5 "" "" PoseTrack 0
+772804867 Mirrorx "Mirror X Output" 1 1 0 0 1 1 1 2 1 "" "" PoseTrack 1
+772804865 Selfhugmax "Self-Hug Max Cross Distance (shoulder-width normalized)" 1 1 0 0.1 1 1 1.5 2 0.55 "" "" PoseTrack 2
+772804865 Wristconfidencemin "Min Wrist Detection Confidence (both wrists)" 1 1 0 0 1 1 1 2 0.5 "" "" PoseTrack 3
+772804865 Bodyscalesmoothing "Body Scale Smoothing (s)" 1 1 0 0.2 1 1 10 2 3 "" "" PoseTrack 4
+?

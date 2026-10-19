@@ -1,0 +1,7 @@
+?
+pages 1 SceneTimer
+772804865 Scene1duration "Scene 1 Duration (s)" 1 1 0 0 1 1 1 2 150 "" "" SceneTimer 0
+772804865 Scene2duration "Scene 2 Duration (s)" 1 1 0 0 1 1 1 2 150 "" "" SceneTimer 1
+772804865 Fadeduration "Crossfade Duration Before Scene Change (s)" 1 1 0 0.2 1 1 8 2 2.5 "" "" SceneTimer 2
+772804869 Restarttimer "Restart Timer" 1 1 0 0 1 1 1 2 0 "" "" SceneTimer 3
+?

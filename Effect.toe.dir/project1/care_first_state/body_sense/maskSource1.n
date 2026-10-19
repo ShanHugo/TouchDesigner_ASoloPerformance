@@ -1,0 +1,10 @@
+TOP:switch
+tile 650 -350 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	bodySegment1
+1 	nvMask1
+}
+color 0.67 0.67 0.67 
+end

@@ -1,0 +1,40 @@
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 8
+   {
+      name = ripple_active
+      data_rle = 0 
+   }
+   {
+      name = ripple_progress
+      data_rle = 1 
+   }
+   {
+      name = split_progress
+      data_rle = 0 
+   }
+   {
+      name = split_p0
+      data_rle = 0 
+   }
+   {
+      name = split_p1
+      data_rle = 0 
+   }
+   {
+      name = split_p2
+      data_rle = 0 
+   }
+   {
+      name = split_p3
+      data_rle = 0 
+   }
+   {
+      name = split_p4
+      data_rle = 0 
+   }
+
+}

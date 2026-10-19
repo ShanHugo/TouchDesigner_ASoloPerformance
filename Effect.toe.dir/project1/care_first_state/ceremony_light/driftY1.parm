@@ -1,0 +1,6 @@
+?
+seed 0 23
+period 0 15
+amp 17 1 parent().par.Noiseamount
+channelname 0 y
+?

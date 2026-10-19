@@ -1,0 +1,6 @@
+?
+preop 0 square
+chanop 0 add
+renamefrom 0 mouth_x
+renameto 0 mouth_dist_sq
+?

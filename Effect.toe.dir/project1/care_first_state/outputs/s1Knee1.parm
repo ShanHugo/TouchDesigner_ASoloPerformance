@@ -1,0 +1,9 @@
+?
+pixeldat 0 s1Knee1_pixel
+computedat 0 s1Knee1_compute
+vec0name 0 uKnee
+vec0valuex 17 0.5 op('/project1/effect_controller').par.Highlightknee
+vec0valuey 17 0 "1 if op('/project1/effect_controller').par.Usehighlightknee.eval() else 0"
+vec0valuez 0 0
+vec0valuew 0 0
+?

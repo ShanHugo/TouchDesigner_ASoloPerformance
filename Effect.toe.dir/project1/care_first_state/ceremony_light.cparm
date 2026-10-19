@@ -1,0 +1,16 @@
+?
+pages 4 CeremonyLight RayBurst Ripple2 SplitLights
+772804865 Lightbrightness "Light Brightness" 1 1 0 0 1 1 3 2 1.7 "" "" CeremonyLight 0
+772804865 Lightradius "Core Radius" 1 1 0 0.01 1 1 0.2 2 0.06 "" "" CeremonyLight 1
+772804865 Haloradius "Halo Radius" 1 1 0 0.05 1 1 0.5 2 0.22 "" "" CeremonyLight 2
+772804865 Ritualboost "Ritual Response Boost" 1 1 0 0 1 1 4 2 2.6 "" "" CeremonyLight 3
+772804865 Noiseamount "Noise Amount (ambient drift)" 1 1 0 0 1 1 0.15 2 0.02 "" "" CeremonyLight 4
+772804865 Anchorx "Anchor X" 1 1 0 0 1 1 1 2 0.5 "" "" CeremonyLight 5
+772804865 Anchory "Anchor Y" 1 1 0 0 1 1 1 2 0.72 "" "" CeremonyLight 6
+772804865 Raylength "Ray Length at Full Ritual" 1 1 0 0.1 1 1 1.2 2 0.55 "" "" RayBurst 7
+772804865 Raywidth "Ray Width" 1 1 0 0.002 1 1 0.05 2 0.012 "" "" RayBurst 8
+772804866 Raycount "Ray Count" 1 1 0 4 1 1 20 2 10 "" "" RayBurst 9
+772804865 Ripplemaxradius "Ripple Max Radius" 1 1 0 0.05 1 1 0.8 2 0.35 "" "" Ripple2 10
+772804865 Ripplewidth "Ripple Line Width" 1 1 0 0.001 1 1 0.03 2 0.008 "" "" Ripple2 11
+772804865 Splitspacing "Split Spacing (max distance between points)" 1 1 0 0.02 1 1 0.4 2 0.14 "" "" SplitLights 12
+?

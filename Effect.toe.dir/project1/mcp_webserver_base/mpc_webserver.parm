@@ -1,0 +1,9 @@
+?
+active 48 on op('parameter1')['Active',1]
+restart 49 0 op('parameter1')['Restart',1]
+port 49 1 op('parameter1')['Port',1]
+callbacks 32 mcp_webserver_script
+password 1024 ""
+minprotocol 0 tls10
+language 0 json
+?
